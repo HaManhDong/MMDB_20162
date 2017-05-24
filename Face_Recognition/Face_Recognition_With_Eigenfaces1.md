@@ -220,6 +220,8 @@ Bước 3:
 
 3. [Eigenfaces for Face Detection/Recognition](http://www.vision.jhu.edu/teaching/vision08/Handouts/case_study_pca1.pdf)
 
+4. [Zhao, W., Chellappa, R., Phillips, P., and Rosenfeld, A. Face recognition: A literature survey. ACM Computing Surveys (CSUR)](http://nichol.as/papers/ZHAO/Face%20Recognition:%20A%20Literature%20Survey.pdf)
+
 
 
 
